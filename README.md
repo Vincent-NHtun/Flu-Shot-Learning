@@ -160,6 +160,4 @@ This isn't just an exercise in tuning hyperparameters. This model provides **act
 `Data Imputation (KNN)` • `Feature Engineering` • `Ensemble Modeling` <br/>
 `Gradient Boosting (CatBoost, HistGB, NGBoost)` • `Cross-Validation` • `Business Interpretation`
 
-<br/>
-<i>Designed and developed by the Data Ninjas</i>
-</div>
+
